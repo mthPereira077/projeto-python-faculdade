@@ -1,4 +1,4 @@
-# projeto-python-faculdade
+# sistema-calculo-notas-python
 Projeto acadêmico desenvolvido durante a graduação em Análise e Desenvolvimento de Sistemas.
 # 📚 Sistema de Cálculo de Notas em Python
 
