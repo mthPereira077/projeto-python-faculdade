@@ -43,4 +43,4 @@ Projeto desenvolvido como atividade acadêmica durante a graduação em **Análi
 
 ## 👨‍💻 Autor
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Matheus estudante de Análise e Desenvolvimento de Sistemas.
